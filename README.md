@@ -61,5 +61,5 @@ A simple and user-friendly calculator application developed using Python and the
 
 For any questions or feedback, feel free to reach out:
 
-- LinkedIn: [Muhammad Umer](https://www.linkedin.com/in/umer-jahangier/)
+- LinkedIn: [Muhammad Umer](https://www.linkedin.com/in/muhammad-umer-jahangier/)
 - Gmail: [Muhammad Umer](umer.jahangier@gmail.com)
