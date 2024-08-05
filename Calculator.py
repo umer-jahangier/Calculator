@@ -120,7 +120,6 @@ class CalculatorApp:
         
     #Function to handle equal button click to evaluate the expression
     def button_equal(self):
-        
         try:
             result = self.safe_eval(self.input_text.get())
             self.input_text.set(result)
